@@ -1,0 +1,10 @@
+body{
+    background-repeat: no-repeat ;
+    background-size:60%;
+    background-attachment: fixed;
+}
+
+marquee{ margin-top: 400px;
+animation: ease-in;
+animation-direction: alternate-reverse;
+}
